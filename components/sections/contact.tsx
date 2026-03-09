@@ -175,16 +175,7 @@ export function ContactSection() {
             
             {/* Google Map */}
             <div className="glass-card rounded-2xl overflow-hidden h-[300px]">
-              <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3896.0131848889566!2d75.73632327489398!3d12.42089568813001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba4f1234567890%3A0x1234567890abcdef!2sMadikeri%2C%20Karnataka%20571201!5e0!3m2!1sen!2sin!4v1234567890123"
-                width="100%"
-                height="100%"
-                style={{ border: 0 }}
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                title="Royal Gold Fitness Location"
-              />
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124684.23013892311!2d75.59958221640626!3d12.424236199999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba501003f181fe5%3A0xc873aaa3d4faba5d!2sRoyal%20gold%20fitness!5e0!3m2!1sen!2sin!4v1773052798078!5m2!1sen!2sin" width="600" height="450" style={{border: 0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
           </div>
         </div>
